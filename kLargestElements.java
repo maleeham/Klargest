@@ -9,7 +9,7 @@ import java.util.Random;
  * TEAM TASK: SP11
  * 
  * @author Maleeha Shabeer Koul msk180001
- * 		   Shakti Singh 
+ * 		   Shakti Singh sxs178130
  * 
  * Purpose of the class : 
  * 				To find the k largest elements in an array 
