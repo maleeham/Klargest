@@ -3,7 +3,7 @@ This file contains instructions on how to run the file kLargestElements.java as 
 
 ================ Authors ======================
 
-Shakti Singh- sxs178130
+
 Maleeha Koul - msk180001
 
 ============ Setting up the workspace ==========
